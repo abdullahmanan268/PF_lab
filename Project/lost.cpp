@@ -143,7 +143,7 @@ int main()
                      << "Login Successful!" << endl;
                 cout << "Press any key to continue...";
                 getch();
-                system("cls"); // Fixed for Windows
+                system("cls"); 
                 break;
             }
             else
